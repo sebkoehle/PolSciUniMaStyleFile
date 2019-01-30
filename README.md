@@ -1,2 +1,3 @@
 # UniMaStyleFile
-LaTeX style file to implement the Citation style of the Department of Politics, University of Mannheim
+LaTeX style file to implement the Citation style of the Department of Politics, University of Mannheim, which I created for my dissertation. 
+
